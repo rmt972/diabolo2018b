@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="evaluation_8py" kind="file">
+    <compoundname>evaluation.py</compoundname>
+    <innernamespace refid="namespaceetude__variable_1_1evaluation">etude_variable::evaluation</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+    </programlisting>
+    <location file="D:/Python/diabolo/etude_variable/evaluation.py"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.6">
+  <compound refid="classetude__variable_1_1analyse_1_1_timer" kind="class"><name>etude_variable::analyse::Timer</name>
+    <member refid="classetude__variable_1_1analyse_1_1_timer_1a97ca461a1ebfa62b573768f643d83514" kind="variable"><name>start</name></member>
+    <member refid="classetude__variable_1_1analyse_1_1_timer_1a7a63ac1e3df200ffc9434b2b46706a5a" kind="function"><name>__init__</name></member>
+    <member refid="classetude__variable_1_1analyse_1_1_timer_1ae56bd9d1c9753843629c6fa75fa849c6" kind="function"><name>restart</name></member>
+    <member refid="classetude__variable_1_1analyse_1_1_timer_1a00744755d8082d693d0c4a8bca0d1f69" kind="function"><name>get_time</name></member>
+  </compound>
+  <compound refid="namespaceetude__variable" kind="namespace"><name>etude_variable</name>
+  </compound>
+  <compound refid="namespaceetude__variable_1_1analyse" kind="namespace"><name>etude_variable::analyse</name>
+    <member refid="namespaceetude__variable_1_1analyse_1a1a96e19cc206514a29703ab4ef24ce2e" kind="function"><name>Print_confusion_matrix</name></member>
+    <member refid="namespaceetude__variable_1_1analyse_1ad75ade518258bff6cafbdefecbf989cb" kind="function"><name>Report_scores</name></member>
+    <member refid="namespaceetude__variable_1_1analyse_1a3055b573605f6baece353f61d4cf5522" kind="function"><name>my_randomize_estimateur</name></member>
+    <member refid="namespaceetude__variable_1_1analyse_1a6079f4c83bcd5d606d88f9a1ff72ac39" kind="function"><name>my_randomize_estimateur2</name></member>
+    <member refid="namespaceetude__variable_1_1analyse_1a32d2aa53cdb0b442fce59181f85f50f0" kind="function"><name>CorrelationDesVariable</name></member>
+    <member refid="namespaceetude__variable_1_1analyse_1a59161501132a7dafefae3d2a8bd14a4b" kind="function"><name>split_dataset</name></member>
+    <member refid="namespaceetude__variable_1_1analyse_1a5d138dbd21f597e4911565ea2763c9c8" kind="function"><name>Plot_learning_curve</name></member>
+    <member refid="namespaceetude__variable_1_1analyse_1adc02a5e6bd3e57dd251d49119536d113" kind="function"><name>Plot_predictor_importance</name></member>
+    <member refid="namespaceetude__variable_1_1analyse_1a822c1404d189f6eaf6e3de3e384a3b47" kind="function"><name>my_split</name></member>
+    <member refid="namespaceetude__variable_1_1analyse_1a74c73cbc9c9fca8b16fc009a53555692" kind="function"><name>my_split_XBOOST</name></member>
+    <member refid="namespaceetude__variable_1_1analyse_1ab881a6b1ccf8f3d8fad1aeefc4956c3f" kind="function"><name>run_randomsearch</name></member>
+    <member refid="namespaceetude__variable_1_1analyse_1abc5a801a9946dc408493db5ec0c7b7e5" kind="function"><name>report2</name></member>
+    <member refid="namespaceetude__variable_1_1analyse_1a1f2dcda380b08cd7d29f98f3aa04ac36" kind="function"><name>my_fit2</name></member>
+    <member refid="namespaceetude__variable_1_1analyse_1a312571a7648e032118e8d6584cd8e7d4" kind="function"><name>my_fit</name></member>
+    <member refid="namespaceetude__variable_1_1analyse_1a9405893ad3dc77cb2b3ffa88b5471c39" kind="function"><name>afficheEvalSet</name></member>
+    <member refid="namespaceetude__variable_1_1analyse_1a8ad69ab8c9f02b66c729531747065efa" kind="function"><name>evaluation</name></member>
+    <member refid="namespaceetude__variable_1_1analyse_1a459f340c286fa79fed910643004e5ea6" kind="function"><name>my_crossValidation</name></member>
+    <member refid="namespaceetude__variable_1_1analyse_1a5c626bb2c87e49c64eb51e989d3c3815" kind="function"><name>run_gridsearch</name></member>
+  </compound>
+  <compound refid="namespaceetude__variable_1_1evaluation" kind="namespace"><name>etude_variable::evaluation</name>
+  </compound>
+  <compound refid="namespaceetude__variable_1_1jouer" kind="namespace"><name>etude_variable::jouer</name>
+    <member refid="namespaceetude__variable_1_1jouer_1afc919b06e3e75305ce8e3c0ad69c4941" kind="function"><name>entraine_allure</name></member>
+    <member refid="namespaceetude__variable_1_1jouer_1a1ec9b8d658bba21c35668f157a975081" kind="function"><name>construireFichierCSV</name></member>
+  </compound>
+  <compound refid="namespaceetude__variable_1_1lecture__data" kind="namespace"><name>etude_variable::lecture_data</name>
+    <member refid="namespaceetude__variable_1_1lecture__data_1a760b1f0a58424d6e0b3b0e94040b5890" kind="function"><name>lecture_data</name></member>
+    <member refid="namespaceetude__variable_1_1lecture__data_1a431e55e4ed506807b2b871d5b1449206" kind="function"><name>my_drop</name></member>
+    <member refid="namespaceetude__variable_1_1lecture__data_1a9e8355956066633716a2fb541f9f5699" kind="function"><name>assign_selection</name></member>
+    <member refid="namespaceetude__variable_1_1lecture__data_1aefdd98176a091ad6cfca11f6d2a3cd0a" kind="function"><name>assign_selection2</name></member>
+    <member refid="namespaceetude__variable_1_1lecture__data_1ade0a315ac43b811f17d938ea5ca31cdc" kind="function"><name>calul_data_allure</name></member>
+    <member refid="namespaceetude__variable_1_1lecture__data_1a97c38493fd27167dd45ea32d8909945d" kind="function"><name>save_mymodel</name></member>
+    <member refid="namespaceetude__variable_1_1lecture__data_1a715e5d1018167b0ccd3a69bd627aef7e" kind="function"><name>load_mymodel</name></member>
+  </compound>
+  <compound refid="namespaceetude__variable_1_1pretraitement" kind="namespace"><name>etude_variable::pretraitement</name>
+  </compound>
+  <compound refid="namespacemain" kind="namespace"><name>main</name>
+    <member refid="namespacemain_1ab642385691db5ddc5c5ae36cc7fea774" kind="function"><name>jouerlescourse</name></member>
+  </compound>
+  <compound refid="____init_____8py" kind="file"><name>__init__.py</name>
+  </compound>
+  <compound refid="analyse_8py" kind="file"><name>analyse.py</name>
+  </compound>
+  <compound refid="evaluation_8py" kind="file"><name>evaluation.py</name>
+  </compound>
+  <compound refid="jouer_8py" kind="file"><name>jouer.py</name>
+  </compound>
+  <compound refid="lecture__data_8py" kind="file"><name>lecture_data.py</name>
+  </compound>
+  <compound refid="pretraitement_8py" kind="file"><name>pretraitement.py</name>
+  </compound>
+  <compound refid="main_8py" kind="file"><name>main.py</name>
+  </compound>
+  <compound refid="dir_275089585c7fc1b5fd5d7d42c69cb1da" kind="dir"><name>D:</name>
+  </compound>
+  <compound refid="dir_9930426661ca29d9942d44ec6e1a5f13" kind="dir"><name>D:/Python/diabolo</name>
+  </compound>
+  <compound refid="dir_ed381fdee75f2703c06995fe55b25c72" kind="dir"><name>D:/Python/diabolo/etude_variable</name>
+  </compound>
+  <compound refid="dir_8998a1c560e27e66bd2d2b89a11edcf7" kind="dir"><name>D:/Python</name>
+  </compound>
+</doxygenindex>

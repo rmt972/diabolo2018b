@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="namespaceetude__variable" kind="namespace">
+    <compoundname>etude_variable</compoundname>
+    <innernamespace refid="namespaceetude__variable_1_1analyse">etude_variable::analyse</innernamespace>
+    <innernamespace refid="namespaceetude__variable_1_1evaluation">etude_variable::evaluation</innernamespace>
+    <innernamespace refid="namespaceetude__variable_1_1jouer">etude_variable::jouer</innernamespace>
+    <innernamespace refid="namespaceetude__variable_1_1lecture__data">etude_variable::lecture_data</innernamespace>
+    <innernamespace refid="namespaceetude__variable_1_1pretraitement">etude_variable::pretraitement</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Python/diabolo/etude_variable/__init__.py" line="1" column="1"/>
+  </compounddef>
+</doxygen>

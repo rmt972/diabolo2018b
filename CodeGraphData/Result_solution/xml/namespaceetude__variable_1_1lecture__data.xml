@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="namespaceetude__variable_1_1lecture__data" kind="namespace">
+    <compoundname>etude_variable::lecture_data</compoundname>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="namespaceetude__variable_1_1lecture__data_1a760b1f0a58424d6e0b3b0e94040b5890" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.lecture_data.lecture_data</definition>
+        <argsstring></argsstring>
+        <name>lecture_data</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/lecture_data.py" line="10" column="1" bodyfile="D:/Python/diabolo/etude_variable/lecture_data.py" bodystart="10" bodyend="87"/>
+        <references refid="namespaceetude__variable_1_1lecture__data_1a431e55e4ed506807b2b871d5b1449206" compoundref="lecture__data_8py" startline="88" endline="95">etude_variable.lecture_data.my_drop</references>
+        <referencedby refid="namespaceetude__variable_1_1lecture__data_1ade0a315ac43b811f17d938ea5ca31cdc" compoundref="lecture__data_8py" startline="116" endline="227">etude_variable.lecture_data.calul_data_allure</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1lecture__data_1a431e55e4ed506807b2b871d5b1449206" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.lecture_data.my_drop</definition>
+        <argsstring></argsstring>
+        <name>my_drop</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/lecture_data.py" line="88" column="1" bodyfile="D:/Python/diabolo/etude_variable/lecture_data.py" bodystart="88" bodyend="95"/>
+        <referencedby refid="namespaceetude__variable_1_1lecture__data_1ade0a315ac43b811f17d938ea5ca31cdc" compoundref="lecture__data_8py" startline="116" endline="227">etude_variable.lecture_data.calul_data_allure</referencedby>
+        <referencedby refid="namespaceetude__variable_1_1lecture__data_1a760b1f0a58424d6e0b3b0e94040b5890" compoundref="lecture__data_8py" startline="10" endline="87">etude_variable.lecture_data.lecture_data</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1lecture__data_1a9e8355956066633716a2fb541f9f5699" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.lecture_data.assign_selection</definition>
+        <argsstring></argsstring>
+        <name>assign_selection</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/lecture_data.py" line="96" column="1" bodyfile="D:/Python/diabolo/etude_variable/lecture_data.py" bodystart="96" bodyend="106"/>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1lecture__data_1aefdd98176a091ad6cfca11f6d2a3cd0a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.lecture_data.assign_selection2</definition>
+        <argsstring></argsstring>
+        <name>assign_selection2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/lecture_data.py" line="107" column="1" bodyfile="D:/Python/diabolo/etude_variable/lecture_data.py" bodystart="107" bodyend="115"/>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1lecture__data_1ade0a315ac43b811f17d938ea5ca31cdc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.lecture_data.calul_data_allure</definition>
+        <argsstring></argsstring>
+        <name>calul_data_allure</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/lecture_data.py" line="116" column="1" bodyfile="D:/Python/diabolo/etude_variable/lecture_data.py" bodystart="116" bodyend="227"/>
+        <references refid="namespaceetude__variable_1_1lecture__data_1a760b1f0a58424d6e0b3b0e94040b5890" compoundref="lecture__data_8py" startline="10" endline="87">etude_variable.lecture_data.lecture_data</references>
+        <references refid="namespaceetude__variable_1_1lecture__data_1a431e55e4ed506807b2b871d5b1449206" compoundref="lecture__data_8py" startline="88" endline="95">etude_variable.lecture_data.my_drop</references>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1lecture__data_1a97c38493fd27167dd45ea32d8909945d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.lecture_data.save_mymodel</definition>
+        <argsstring></argsstring>
+        <name>save_mymodel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/lecture_data.py" line="228" column="1" bodyfile="D:/Python/diabolo/etude_variable/lecture_data.py" bodystart="228" bodyend="231"/>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1lecture__data_1a715e5d1018167b0ccd3a69bd627aef7e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.lecture_data.load_mymodel</definition>
+        <argsstring></argsstring>
+        <name>load_mymodel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/lecture_data.py" line="232" column="1" bodyfile="D:/Python/diabolo/etude_variable/lecture_data.py" bodystart="232" bodyend="244"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Python/diabolo/etude_variable/lecture_data.py" line="1" column="1"/>
+  </compounddef>
+</doxygen>

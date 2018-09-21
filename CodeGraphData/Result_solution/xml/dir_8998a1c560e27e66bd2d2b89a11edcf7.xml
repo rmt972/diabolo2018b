@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_8998a1c560e27e66bd2d2b89a11edcf7" kind="dir">
+    <compoundname>D:/Python</compoundname>
+    <innerdir refid="dir_9930426661ca29d9942d44ec6e1a5f13">D:/Python/diabolo</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Python/"/>
+  </compounddef>
+</doxygen>

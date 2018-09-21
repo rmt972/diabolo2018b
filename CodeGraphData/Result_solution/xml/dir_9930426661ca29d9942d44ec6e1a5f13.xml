@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_9930426661ca29d9942d44ec6e1a5f13" kind="dir">
+    <compoundname>D:/Python/diabolo</compoundname>
+    <innerdir refid="dir_ed381fdee75f2703c06995fe55b25c72">D:/Python/diabolo/etude_variable</innerdir>
+    <innerfile refid="main_8py">main.py</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Python/diabolo/"/>
+  </compounddef>
+</doxygen>

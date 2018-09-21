@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="classetude__variable_1_1analyse_1_1_timer" kind="class" prot="public">
+    <compoundname>etude_variable::analyse::Timer</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classetude__variable_1_1analyse_1_1_timer_1a97ca461a1ebfa62b573768f643d83514" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>etude_variable.analyse.Timer::start</definition>
+        <argsstring></argsstring>
+        <name>start</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="42" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="42" bodyend="-1"/>
+        <referencedby refid="classetude__variable_1_1analyse_1_1_timer_1a00744755d8082d693d0c4a8bca0d1f69" compoundref="analyse_8py" startline="47" endline="58">etude_variable.analyse.Timer.get_time</referencedby>
+        <referencedby refid="classetude__variable_1_1analyse_1_1_timer_1ae56bd9d1c9753843629c6fa75fa849c6" compoundref="analyse_8py" startline="44" endline="46">etude_variable.analyse.Timer.restart</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classetude__variable_1_1analyse_1_1_timer_1a7a63ac1e3df200ffc9434b2b46706a5a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.analyse.Timer.__init__</definition>
+        <argsstring></argsstring>
+        <name>__init__</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="41" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="41" bodyend="43"/>
+      </memberdef>
+      <memberdef kind="function" id="classetude__variable_1_1analyse_1_1_timer_1ae56bd9d1c9753843629c6fa75fa849c6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.analyse.Timer.restart</definition>
+        <argsstring></argsstring>
+        <name>restart</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="44" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="44" bodyend="46"/>
+        <references refid="classetude__variable_1_1analyse_1_1_timer_1a97ca461a1ebfa62b573768f643d83514" compoundref="analyse_8py" startline="42">etude_variable.analyse.Timer.start</references>
+      </memberdef>
+      <memberdef kind="function" id="classetude__variable_1_1analyse_1_1_timer_1a00744755d8082d693d0c4a8bca0d1f69" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.analyse.Timer.get_time</definition>
+        <argsstring></argsstring>
+        <name>get_time</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="47" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="47" bodyend="58"/>
+        <references refid="classetude__variable_1_1analyse_1_1_timer_1a97ca461a1ebfa62b573768f643d83514" compoundref="analyse_8py" startline="42">etude_variable.analyse.Timer.start</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Python/diabolo/etude_variable/analyse.py" line="40" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="40" bodyend="59"/>
+    <listofallmembers>
+      <member refid="classetude__variable_1_1analyse_1_1_timer_1a7a63ac1e3df200ffc9434b2b46706a5a" prot="public" virt="non-virtual"><scope>etude_variable::analyse::Timer</scope><name>__init__</name></member>
+      <member refid="classetude__variable_1_1analyse_1_1_timer_1a00744755d8082d693d0c4a8bca0d1f69" prot="public" virt="non-virtual"><scope>etude_variable::analyse::Timer</scope><name>get_time</name></member>
+      <member refid="classetude__variable_1_1analyse_1_1_timer_1ae56bd9d1c9753843629c6fa75fa849c6" prot="public" virt="non-virtual"><scope>etude_variable::analyse::Timer</scope><name>restart</name></member>
+      <member refid="classetude__variable_1_1analyse_1_1_timer_1a97ca461a1ebfa62b573768f643d83514" prot="public" virt="non-virtual"><scope>etude_variable::analyse::Timer</scope><name>start</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

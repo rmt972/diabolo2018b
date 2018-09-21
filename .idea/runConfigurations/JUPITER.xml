@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="JUPITER" type="Python.Ipnb" factoryName="Jupyter Notebook" show_console_on_std_err="true" show_console_on_std_out="true">
+    <output_file path="diabolo.log" is_save="true" />
+    <module name="diabolo2" />
+    <option name="INTERPRETER_OPTIONS" value="" />
+    <option name="PARENT_ENVS" value="true" />
+    <envs>
+      <env name="PYTHONUNBUFFERED" value="1" />
+    </envs>
+    <option name="SDK_HOME" value="" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <option name="IS_MODULE_SDK" value="true" />
+    <option name="ADD_CONTENT_ROOTS" value="true" />
+    <option name="ADD_SOURCE_ROOTS" value="true" />
+    <option name="additionalOptions" value="http://localhost:8889/?token=35a69916920f9e26da222c5247644892bf7e2ccf87a47eb8" />
+    <option name="ipnbHost" value=" http://localhost:8889/?token=ca072592962e845af72e95403b0673e93adccbb97e3200b9" />
+    <option name="ipnbPort" value="8888" />
+    <method />
+  </configuration>
+</component>

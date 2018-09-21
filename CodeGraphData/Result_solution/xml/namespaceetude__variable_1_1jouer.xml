@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="namespaceetude__variable_1_1jouer" kind="namespace">
+    <compoundname>etude_variable::jouer</compoundname>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="namespaceetude__variable_1_1jouer_1afc919b06e3e75305ce8e3c0ad69c4941" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.jouer.entraine_allure</definition>
+        <argsstring></argsstring>
+        <name>entraine_allure</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/jouer.py" line="24" column="1" bodyfile="D:/Python/diabolo/etude_variable/jouer.py" bodystart="24" bodyend="79"/>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1jouer_1a1ec9b8d658bba21c35668f157a975081" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.jouer.construireFichierCSV</definition>
+        <argsstring></argsstring>
+        <name>construireFichierCSV</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/jouer.py" line="80" column="1" bodyfile="D:/Python/diabolo/etude_variable/jouer.py" bodystart="80" bodyend="290"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Python/diabolo/etude_variable/jouer.py" line="1" column="1"/>
+  </compounddef>
+</doxygen>

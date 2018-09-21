@@ -1,0 +1,318 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="namespaceetude__variable_1_1analyse" kind="namespace">
+    <compoundname>etude_variable::analyse</compoundname>
+    <innerclass refid="classetude__variable_1_1analyse_1_1_timer" prot="public">etude_variable::analyse::Timer</innerclass>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="namespaceetude__variable_1_1analyse_1a1a96e19cc206514a29703ab4ef24ce2e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.analyse.Print_confusion_matrix</definition>
+        <argsstring></argsstring>
+        <name>Print_confusion_matrix</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="59" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="59" bodyend="81"/>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1analyse_1ad75ade518258bff6cafbdefecbf989cb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.analyse.Report_scores</definition>
+        <argsstring></argsstring>
+        <name>Report_scores</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="82" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="82" bodyend="99"/>
+        <referencedby refid="namespaceetude__variable_1_1analyse_1a312571a7648e032118e8d6584cd8e7d4" compoundref="analyse_8py" startline="435" endline="479">etude_variable.analyse.my_fit</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1analyse_1a3055b573605f6baece353f61d4cf5522" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.analyse.my_randomize_estimateur</definition>
+        <argsstring></argsstring>
+        <name>my_randomize_estimateur</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="100" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="100" bodyend="142"/>
+        <referencedby refid="namespaceetude__variable_1_1analyse_1a312571a7648e032118e8d6584cd8e7d4" compoundref="analyse_8py" startline="435" endline="479">etude_variable.analyse.my_fit</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1analyse_1a6079f4c83bcd5d606d88f9a1ff72ac39" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.analyse.my_randomize_estimateur2</definition>
+        <argsstring></argsstring>
+        <name>my_randomize_estimateur2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="143" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="143" bodyend="216"/>
+        <referencedby refid="namespaceetude__variable_1_1analyse_1a1f2dcda380b08cd7d29f98f3aa04ac36" compoundref="analyse_8py" startline="418" endline="433">etude_variable.analyse.my_fit2</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1analyse_1a32d2aa53cdb0b442fce59181f85f50f0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.analyse.CorrelationDesVariable</definition>
+        <argsstring></argsstring>
+        <name>CorrelationDesVariable</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="217" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="217" bodyend="226"/>
+        <references refid="namespaceetude__variable_1_1analyse_1a59161501132a7dafefae3d2a8bd14a4b" compoundref="analyse_8py" startline="228" endline="248">etude_variable.analyse.split_dataset</references>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1analyse_1a59161501132a7dafefae3d2a8bd14a4b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.analyse.split_dataset</definition>
+        <argsstring></argsstring>
+        <name>split_dataset</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="227" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="228" bodyend="248"/>
+        <references refid="namespaceetude__variable_1_1analyse_1a5d138dbd21f597e4911565ea2763c9c8" compoundref="analyse_8py" startline="254" endline="288">etude_variable.analyse.Plot_learning_curve</references>
+        <referencedby refid="namespaceetude__variable_1_1analyse_1a32d2aa53cdb0b442fce59181f85f50f0" compoundref="analyse_8py" startline="217" endline="226">etude_variable.analyse.CorrelationDesVariable</referencedby>
+        <referencedby refid="namespaceetude__variable_1_1analyse_1a822c1404d189f6eaf6e3de3e384a3b47" compoundref="analyse_8py" startline="315" endline="327">etude_variable.analyse.my_split</referencedby>
+        <referencedby refid="namespaceetude__variable_1_1analyse_1a74c73cbc9c9fca8b16fc009a53555692" compoundref="analyse_8py" startline="330" endline="348">etude_variable.analyse.my_split_XBOOST</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1analyse_1a5d138dbd21f597e4911565ea2763c9c8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.analyse.Plot_learning_curve</definition>
+        <argsstring></argsstring>
+        <name>Plot_learning_curve</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="249" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="254" bodyend="288"/>
+        <referencedby refid="namespaceetude__variable_1_1analyse_1a59161501132a7dafefae3d2a8bd14a4b" compoundref="analyse_8py" startline="228" endline="248">etude_variable.analyse.split_dataset</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1analyse_1adc02a5e6bd3e57dd251d49119536d113" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.analyse.Plot_predictor_importance</definition>
+        <argsstring></argsstring>
+        <name>Plot_predictor_importance</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="289" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="289" bodyend="314"/>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1analyse_1a822c1404d189f6eaf6e3de3e384a3b47" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.analyse.my_split</definition>
+        <argsstring></argsstring>
+        <name>my_split</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="315" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="315" bodyend="327"/>
+        <references refid="namespaceetude__variable_1_1analyse_1a74c73cbc9c9fca8b16fc009a53555692" compoundref="analyse_8py" startline="330" endline="348">etude_variable.analyse.my_split_XBOOST</references>
+        <references refid="namespaceetude__variable_1_1analyse_1a59161501132a7dafefae3d2a8bd14a4b" compoundref="analyse_8py" startline="228" endline="248">etude_variable.analyse.split_dataset</references>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1analyse_1a74c73cbc9c9fca8b16fc009a53555692" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.analyse.my_split_XBOOST</definition>
+        <argsstring></argsstring>
+        <name>my_split_XBOOST</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="328" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="330" bodyend="348"/>
+        <references refid="namespaceetude__variable_1_1analyse_1a59161501132a7dafefae3d2a8bd14a4b" compoundref="analyse_8py" startline="228" endline="248">etude_variable.analyse.split_dataset</references>
+        <referencedby refid="namespaceetude__variable_1_1analyse_1a822c1404d189f6eaf6e3de3e384a3b47" compoundref="analyse_8py" startline="315" endline="327">etude_variable.analyse.my_split</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1analyse_1ab881a6b1ccf8f3d8fad1aeefc4956c3f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.analyse.run_randomsearch</definition>
+        <argsstring></argsstring>
+        <name>run_randomsearch</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><verbatim>Run a random search for best Decision Tree parameters.
+
+Args
+----
+X -- features
+y -- targets (classes)
+cf -- scikit-learn Decision Tree
+param_dist -- [dict] list, distributions of parameters
+              to sample
+cv -- fold of cross-validation, default 5
+n_iter_search -- number of random parameter sets to try,
+                 default 20.
+
+Returns
+-------
+top_params -- [dict] from report()
+</verbatim> </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="349" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="349" bodyend="387"/>
+        <references refid="namespaceetude__variable_1_1analyse_1abc5a801a9946dc408493db5ec0c7b7e5" compoundref="analyse_8py" startline="388" endline="416">etude_variable.analyse.report2</references>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1analyse_1abc5a801a9946dc408493db5ec0c7b7e5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.analyse.report2</definition>
+        <argsstring></argsstring>
+        <name>report2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><verbatim>Report top n_top parameters settings, default n_top=3.
+
+Args
+----
+grid_scores -- output from grid or random search
+n_top -- how many to report, of top models
+
+Returns
+-------
+top_params -- [dict] top parameter settings found in
+              search
+</verbatim> </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="388" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="388" bodyend="416"/>
+        <references refid="namespaceetude__variable_1_1analyse_1a1f2dcda380b08cd7d29f98f3aa04ac36" compoundref="analyse_8py" startline="418" endline="433">etude_variable.analyse.my_fit2</references>
+        <referencedby refid="namespaceetude__variable_1_1analyse_1a5c626bb2c87e49c64eb51e989d3c3815" compoundref="analyse_8py" startline="591" endline="639">etude_variable.analyse.run_gridsearch</referencedby>
+        <referencedby refid="namespaceetude__variable_1_1analyse_1ab881a6b1ccf8f3d8fad1aeefc4956c3f" compoundref="analyse_8py" startline="349" endline="387">etude_variable.analyse.run_randomsearch</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1analyse_1a1f2dcda380b08cd7d29f98f3aa04ac36" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.analyse.my_fit2</definition>
+        <argsstring></argsstring>
+        <name>my_fit2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="417" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="418" bodyend="433"/>
+        <references refid="namespaceetude__variable_1_1analyse_1a312571a7648e032118e8d6584cd8e7d4" compoundref="analyse_8py" startline="435" endline="479">etude_variable.analyse.my_fit</references>
+        <references refid="namespaceetude__variable_1_1analyse_1a6079f4c83bcd5d606d88f9a1ff72ac39" compoundref="analyse_8py" startline="143" endline="216">etude_variable.analyse.my_randomize_estimateur2</references>
+        <referencedby refid="namespaceetude__variable_1_1analyse_1abc5a801a9946dc408493db5ec0c7b7e5" compoundref="analyse_8py" startline="388" endline="416">etude_variable.analyse.report2</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1analyse_1a312571a7648e032118e8d6584cd8e7d4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.analyse.my_fit</definition>
+        <argsstring></argsstring>
+        <name>my_fit</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="434" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="435" bodyend="479"/>
+        <references refid="namespaceetude__variable_1_1analyse_1a9405893ad3dc77cb2b3ffa88b5471c39" compoundref="analyse_8py" startline="486" endline="547">etude_variable.analyse.afficheEvalSet</references>
+        <references refid="namespaceetude__variable_1_1analyse_1a3055b573605f6baece353f61d4cf5522" compoundref="analyse_8py" startline="100" endline="142">etude_variable.analyse.my_randomize_estimateur</references>
+        <references refid="namespaceetude__variable_1_1analyse_1ad75ade518258bff6cafbdefecbf989cb" compoundref="analyse_8py" startline="82" endline="99">etude_variable.analyse.Report_scores</references>
+        <referencedby refid="namespaceetude__variable_1_1analyse_1a1f2dcda380b08cd7d29f98f3aa04ac36" compoundref="analyse_8py" startline="418" endline="433">etude_variable.analyse.my_fit2</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1analyse_1a9405893ad3dc77cb2b3ffa88b5471c39" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.analyse.afficheEvalSet</definition>
+        <argsstring></argsstring>
+        <name>afficheEvalSet</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="480" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="486" bodyend="547"/>
+        <references refid="namespaceetude__variable_1_1analyse_1a8ad69ab8c9f02b66c729531747065efa" compoundref="analyse_8py" startline="551" endline="572">etude_variable.analyse.evaluation</references>
+        <referencedby refid="namespaceetude__variable_1_1analyse_1a8ad69ab8c9f02b66c729531747065efa" compoundref="analyse_8py" startline="551" endline="572">etude_variable.analyse.evaluation</referencedby>
+        <referencedby refid="namespaceetude__variable_1_1analyse_1a312571a7648e032118e8d6584cd8e7d4" compoundref="analyse_8py" startline="435" endline="479">etude_variable.analyse.my_fit</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1analyse_1a8ad69ab8c9f02b66c729531747065efa" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.analyse.evaluation</definition>
+        <argsstring></argsstring>
+        <name>evaluation</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="548" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="551" bodyend="572"/>
+        <references refid="namespaceetude__variable_1_1analyse_1a9405893ad3dc77cb2b3ffa88b5471c39" compoundref="analyse_8py" startline="486" endline="547">etude_variable.analyse.afficheEvalSet</references>
+        <referencedby refid="namespaceetude__variable_1_1analyse_1a9405893ad3dc77cb2b3ffa88b5471c39" compoundref="analyse_8py" startline="486" endline="547">etude_variable.analyse.afficheEvalSet</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1analyse_1a459f340c286fa79fed910643004e5ea6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.analyse.my_crossValidation</definition>
+        <argsstring></argsstring>
+        <name>my_crossValidation</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="573" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="573" bodyend="590"/>
+      </memberdef>
+      <memberdef kind="function" id="namespaceetude__variable_1_1analyse_1a5c626bb2c87e49c64eb51e989d3c3815" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def etude_variable.analyse.run_gridsearch</definition>
+        <argsstring></argsstring>
+        <name>run_gridsearch</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><verbatim>Run a grid search for best Decision Tree parameters.
+
+Args
+----
+X -- features
+y -- targets (classes)
+cf -- scikit-learn Decision Tree
+param_grid -- [dict] parameter settings to test
+cv -- fold of cross-validation, default 5
+
+Returns
+-------
+top_params -- [dict] from report()
+</verbatim> </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Python/diabolo/etude_variable/analyse.py" line="591" column="1" bodyfile="D:/Python/diabolo/etude_variable/analyse.py" bodystart="591" bodyend="639"/>
+        <references refid="namespaceetude__variable_1_1analyse_1abc5a801a9946dc408493db5ec0c7b7e5" compoundref="analyse_8py" startline="388" endline="416">etude_variable.analyse.report2</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Python/diabolo/etude_variable/analyse.py" line="1" column="1"/>
+  </compounddef>
+</doxygen>

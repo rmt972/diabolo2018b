@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/etude_variable/analyse.py" line="1203" />
+    <bookmark url="file://$PROJECT_DIR$/etude_variable/analyse.py" line="916" />
+    <bookmark url="file://$PROJECT_DIR$/etude_variable/jouer.py" line="104" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="395a5d3b-769d-4bd3-a5cb-ffe50926e371" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="PRINT_LINE_NUMBERS" value="true" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="D:\exportToHTML" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="diabolo">
+      <favorite_root url="file://$PROJECT_DIR$/etude_variable/jouer.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="jouer.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/etude_variable/jouer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="477" selection-start-line="477" selection-end-line="477" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MAIN.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/etude_variable/MAIN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="POUR JOUER MAi 2018 (NE PAS TOUCHER).ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/etude_variable/POUR JOUER MAi 2018 (NE PAS TOUCHER).ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sklearn.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/python/Lib/site-packages/xgboost/sklearn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4410">
+              <caret line="385" selection-start-line="385" selection-end-line="385" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="POUR JOUER MAi 2018        2.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/etude_variable/POUR JOUER MAi 2018        2.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RECHERCHE.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/etude_variable/RECHERCHE.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PRODUCTION.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/etude_variable/PRODUCTION.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="diabolo V1.0.0.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NOTEBOOK/diabolo V1.0.0.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lecture_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/etude_variable/lecture_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analyse.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/etude_variable/analyse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1695">
+              <caret line="113" column="5" selection-start-line="113" selection-start-column="5" selection-end-line="113" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Setup Script" />
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>best_param</find>
+      <find>range(</find>
+      <find>par_gain</find>
+      <find>best</find>
+      <find>targetColums</find>
+      <find>matrix</find>
+      <find>point</find>
+      <find>AR_REUSSITE_QUINTE</find>
+      <find>utils</find>
+      <find>time</find>
+      <find>my_timer</find>
+      <find>dir</find>
+      <find>l</find>
+      <find>sum</find>
+      <find>coun</find>
+      <find>POIDS</find>
+      <find>metrique_classe</find>
+      <find>logging</find>
+      <find>metrique</find>
+      <find>specificity_score</find>
+      <find>Point</find>
+      <find>PAR_PLACE_Q</find>
+      <find>PAR_COTE</find>
+      <find>musique</find>
+      <find>IDPARTICIPANT</find>
+      <find>idx_max</find>
+      <find>scaler</find>
+      <find>encodage</find>
+      <find>victoire</find>
+      <find>test_x</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\projets_python\diabolo\etude_variable</dir>
+      <dir>C:\projets_python\diabolo</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/version" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/etude_variable/pretraitement.py" />
+        <option value="$PROJECT_DIR$/etude_variable/traitement.py" />
+        <option value="$PROJECT_DIR$/DIABLOLO.ipynb" />
+        <option value="$PROJECT_DIR$/etude_variable/DIABLOLO.ipynb" />
+        <option value="$PROJECT_DIR$/etude_variable/my_system.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/NOTEBOOK/diabolo V1.ipynb" />
+        <option value="$PROJECT_DIR$/etude_variable/my_xgboost.py" />
+        <option value="$PROJECT_DIR$/etude_variable/xgboot_natif.py" />
+        <option value="$PROJECT_DIR$/etude_variable/MAIN" />
+        <option value="$PROJECT_DIR$/NOTEBOOK/JOUER" />
+        <option value="$PROJECT_DIR$/etude_variable/diabolo_test.ipynb" />
+        <option value="$USER_HOME$/POUR JOUER.ipynb" />
+        <option value="$PROJECT_DIR$/etude_variable/myBD.py" />
+        <option value="$PROJECT_DIR$/etude_variabl/jouer.py" />
+        <option value="$USER_HOME$/POURJOUER.ipynb" />
+        <option value="$PROJECT_DIR$/etude_variable/jouer2.py" />
+        <option value="$PROJECT_DIR$/etude_variable/analyse2.py" />
+        <option value="$PROJECT_DIR$/etude_variable/TEST_XBOOST_NATIF.ipynb" />
+        <option value="$PROJECT_DIR$/NOTEBOOK/TEST2.ipynb" />
+        <option value="$PROJECT_DIR$/NOTEBOOK/recherche.ipynb" />
+        <option value="$PROJECT_DIR$/etude_variable/gest_bd.py" />
+        <option value="$PROJECT_DIR$/etude_variable/diabolo.conf" />
+        <option value="$PROJECT_DIR$/etude_variable/main" />
+        <option value="$PROJECT_DIR$/etude_variable/test.py" />
+        <option value="$PROJECT_DIR$/NOTEBOOK/TEST_BD.ipynb" />
+        <option value="$PROJECT_DIR$/etude_variable/lecture_data2.py" />
+        <option value="$USER_HOME$/.jupyter/jupyter_notebook_config.py" />
+        <option value="$PROJECT_DIR$/etude_variable/evaluation.py" />
+        <option value="$PROJECT_DIR$/MAIN.py" />
+        <option value="$PROJECT_DIR$/etude_variable/MAIN.py" />
+        <option value="C:/python/diabolo/etude_variable/MAIN.py" />
+        <option value="$PROJECT_DIR$/etude_variable/MyLog.py" />
+        <option value="$PROJECT_DIR$/etude_variable/diabolo4_2018.ipynb" />
+        <option value="$PROJECT_DIR$/etude_variable/diabolo4_2018_C.ipynb" />
+        <option value="$PROJECT_DIR$/etude_variable/utility/duration.py" />
+        <option value="$PROJECT_DIR$/etude_variable/utility/sklearnbasemodel.py" />
+        <option value="$PROJECT_DIR$/NOTEBOOK/diabolo V2.ipynb" />
+        <option value="$PROJECT_DIR$/NOTEBOOK/ARCHIVES/recherche.ipynb" />
+        <option value="$PROJECT_DIR$/NOTEBOOK/NOTEBOOK DE JEU.ipynb" />
+        <option value="$PROJECT_DIR$/NOTEBOOK/ETUDE.ipynb" />
+        <option value="$PROJECT_DIR$/etude_variable/diabolo V2.ipynb" />
+        <option value="$PROJECT_DIR$/etude_variable/NOTEBOOK POUR JOUER MAI 2018.ipynb" />
+        <option value="$PROJECT_DIR$/etude_variable/analyse.py" />
+        <option value="$PROJECT_DIR$/etude_variable/lecture_data.py" />
+        <option value="$PROJECT_DIR$/etude_variable/jouer2018" />
+        <option value="$PROJECT_DIR$/etude_variable/PMU_ETAPE_1.ipynb" />
+        <option value="$PROJECT_DIR$/etude_variable/DEVELOPPEMENT.ipynb" />
+        <option value="$PROJECT_DIR$/etude_variable/PMU_ETAPE_2.ipynb" />
+        <option value="$PROJECT_DIR$/etude_variable/PRODUCTION 2018-Copy1.ipynb" />
+        <option value="$PROJECT_DIR$/etude_variable/jouer.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2156" />
+    <option name="y" value="447" />
+    <option name="width" value="1920" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollToSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="diabolo" type="cbb8eebc:String" user="diabolo" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="diabolo" type="cbb8eebc:String" user="diabolo" />
+              <item name="etude_variable" type="cbb8eebc:String" user="etude_variable" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="diabolo" type="cbb8eebc:String" user="diabolo" />
+              <item name="NOTEBOOK" type="cbb8eebc:String" user="NOTEBOOK" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="diabolo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diabolo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="diabolo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diabolo" type="462c0819:PsiDirectoryNode" />
+              <item name="etude_variable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="diabolo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;null&#9;null" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="F:/WinPython/envDiabolo" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="diabolo2" is-module-sdk="true">
+        <option name="useSoftWraps" value="true" />
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="diabolo2" />
+      </console-settings>
+    </option>
+    <option name="myIpythonEnabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projets_python\diabolo\etude_variable" />
+      <recent name="C:\projets_python\diabolo" />
+      <recent name="C:\projets_python\diabolo\" />
+      <recent name="C:\projets_python\diabolo\NOTEBOOK" />
+      <recent name="C:\projets_python\diabolo\etude_variable\utility" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projets_python\diabolo\etude_variable" />
+      <recent name="C:\projets_python\diabolo\NOTEBOOK\ARCHIVES" />
+      <recent name="C:\projets_python\diabolo\NOTEBOOK" />
+      <recent name="C:\python\diabolo\etude_variable" />
+      <recent name="D:\Python\diabolo\etude_variable" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.PYTHON PPROD">
+    <configuration name="MAIN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="diabolo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\thunyr\ENVIRONNEMENT_JUPYTER\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/etude_variable" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/etude_variable/MAIN" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="PYTHON PPROD" type="PythonConfigurationType" factoryName="Python">
+      <module name="diabolo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\WinPython\envDiabolo2\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="diabolo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\thunyr\ENVIRONNEMENT_JUPYTER\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="analyse" type="PythonConfigurationType" factoryName="Python">
+      <module name="diabolo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/etude_variable" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/etude_variable/analyse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="jouer" type="PythonConfigurationType" factoryName="Python">
+      <module name="diabolo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/etude_variable" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/etude_variable/jouer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="lecture_data" type="PythonConfigurationType" factoryName="Python">
+      <module name="diabolo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/etude_variable" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/etude_variable/lecture_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="diabolo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\thunyr\ENVIRONNEMENT_JUPYTER\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/etude_variable" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/etude_variable/main" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="diabolo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\thunyr\ENVIRONNEMENT_JUPYTER\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/etude_variable" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Python\diabolo\etude_variable\MAIN" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="my_system" type="PythonConfigurationType" factoryName="Python">
+      <module name="diabolo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/etude_variable" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/etude_variable/my_system.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Python.Ipnb" factoryName="Jupyter Notebook">
+      <module name="diabolo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\thunyr\ENVIRONNEMENT_JUPYTER\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="diabolo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\thunyr\ENVIRONNEMENT_JUPYTER\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <myArguments>
+        <array />
+      </myArguments>
+      <myRunOnlyEnvs>
+        <array />
+      </myRunOnlyEnvs>
+    </configuration>
+    <list>
+      <item itemvalue="Jupyter Notebook.JUPITER" />
+      <item itemvalue="Python.PYTHON PPROD" />
+      <item itemvalue="Python.my_system" />
+      <item itemvalue="Python.main diabolo python" />
+      <item itemvalue="Python.jouer" />
+      <item itemvalue="Python.analyse" />
+      <item itemvalue="Python.lecture_data" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.MAIN" />
+      <item itemvalue="Python.main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.MAIN" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="395a5d3b-769d-4bd3-a5cb-ffe50926e371" name="Default" comment="" />
+      <created>1519527008888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519527008888</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3206951" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32777777" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50514704" side_tool="true" visible="true" weight="0.32225913" />
+      <window_info anchor="bottom" x="302" y="68" width="998" height="798" id="Run" order="2" type="WINDOWED" weight="0.28079912" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49707112" weight="0.07317073" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.4942446" weight="0.32150775" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.14164004" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49485293" weight="0.32779622" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986711" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" visible="true" weight="0.32815966" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" visible="true" weight="0.32779622" />
+      <window_info anchor="right" id="Data View" order="3" weight="0.092651755" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.25027686" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myShow1" value="true" />
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/etude_variable/lecture_data.py</url>
+          <line>234</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="16" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/NOTEBOOK/diabolo PYCHARM.ipynb" />
+    <entry file="file://$PROJECT_DIR$/NOTEBOOK/ARCHIVES/DIABOLO RANDOM FOREST2018-Copy1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NOTEBOOK/ARCHIVES/diabolo4_201 recherche.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NOTEBOOK/ARCHIVES/DIABOLO LA VICTOIRE.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NOTEBOOK/ARCHIVES/diabolo V1.0.0.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NOTEBOOK/ARCHIVES/DIABOLO MARS 2018.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NOTEBOOK/ARCHIVES/diabolo v1 recherche.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NOTEBOOK/diabolo V2.ipynb" />
+    <entry file="file://$PROJECT_DIR$/NOTEBOOK/diabolo972.ipynb" />
+    <entry file="file://$PROJECT_DIR$/NOTEBOOK/ARCHIVES/DIABOLO RANDOM FOREST.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/diabolo V1.0.0.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NOTEBOOK/ARCHIVES/recherche.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NOTEBOOK/DIABOLO MARS 2018.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/diabolo v1 recherche.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NOTEBOOK/DIABOLO ARBRE 2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/ETUDE.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/diabolo V2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/diabolo972.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/diabolo4_201 recherche.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NOTEBOOK/recherche.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NOTEBOOK/NOTEBOOK DE JEU.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/Untitled.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NOTEBOOK/ARCHIVES/DIABOLO ARBRE DECISON  ALEATOIRE.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NOTEBOOK/DIABOLO ARBRE DECISON CLASSIQUE.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/MyLog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/TEST_XBOOST_NATIF.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NOTEBOOK/diabolo v1 recherche.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/NOTEBOOK POUR JOUER MAI 2018.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/Comparaison ESTIMATEUR.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/DEFINITIF-Copy1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/CALCUL_NOTE.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/gest_bd.py" />
+    <entry file="file://$PROJECT_DIR$/etude_variable/jouer2018.py" />
+    <entry file="file://$PROJECT_DIR$/etude_variable/PMU_ETAPE_1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/DEVELOPPEMENT.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/PMU_ETAPE_2.ipynb" />
+    <entry file="file://$PROJECT_DIR$/etude_variable/PMU_ETAPE_2 PRIME.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/DIABOLO REGRESSION FINALE A-Copy1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/FAIRE FICHIER SNOTE.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/ETUDE POUR JOUER MAi 2018.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NOTEBOOK/diabolo V1.0.0.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/RECHERCHE.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/PRODUCTION 2018-Copy1.ipynb" />
+    <entry file="file://$PROJECT_DIR$/etude_variable/POUR JOUER MAi 2018        2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/analyse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1695">
+          <caret line="113" column="5" selection-start-line="113" selection-start-column="5" selection-end-line="113" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/python/Lib/site-packages/xgboost/sklearn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4410">
+          <caret line="385" selection-start-line="385" selection-end-line="385" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/POUR JOUER MAi 2018 (NE PAS TOUCHER).ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/MAIN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/PRODUCTION.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/lecture_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etude_variable/jouer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="477" selection-start-line="477" selection-end-line="477" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
